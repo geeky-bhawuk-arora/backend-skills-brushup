@@ -12,3 +12,9 @@
 
 // server.listen(3000)
 
+
+// With nodemon (auto-restarts on file changes):
+// npx nodemon file.js
+
+// Run the server
+// node file.js
